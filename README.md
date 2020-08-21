@@ -1,7 +1,7 @@
 ## Seattle Traffic and Collisions Data 
 ### Understanding Traffic Patterns through Data Visualization, Statistical Modeling & Machine Learning
 
-This public repository contains the Machine Learning Team's materials for the Traffic Collisions Project, organized by the Projects Circle.  
+This public repository contains the Machine Learning Team's materials for the Traffic Collisions Project, organized by Seattle Data Circles.  
 
 
 ### Project Team Members
