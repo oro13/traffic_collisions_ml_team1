@@ -1,4 +1,3 @@
-# Collisions Smollisions: 
 ## Seattle Traffic and Collisions Data 
 ### Understanding the Patterns of Collisions Data through Data Visualization, Statistical Modeling & Machine Learning
 
