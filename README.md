@@ -1,5 +1,6 @@
 # Collisions Smollisions: 
-## A Machine Learning Project and Data Analysis Project of Seattle Traffic and Collisions Data to Better Understand Why Collisions Happen
+## Seattle Traffic and Collisions Data 
+### Understanding the Patterns of Collisions Data through Data Visualization, Statistical Modeling & Machine Learning
 
 This public repository contains the Machine Learning Team's materials for the Traffic Collisions Project, organized by the Projects Circle.  
 
