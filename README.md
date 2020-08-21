@@ -17,7 +17,7 @@ This public repository contains the Machine Learning Team's materials for the Tr
  **[Probabilistic Estimating](#bayesian-approach)**  |
  **[Machine Learning I](#machine-learning-pt.-i---individual-collisions)**  |
  **[Machine Learning II](#machine-learning-pt.-ii---aggregate-annualized-features)**  |
- |  **[Conclusions & Policy Recommendations](#final-toughts)**  |
+ |  **[Conclusions & Policy Recommendations](#final-thoughts)**  |
  
 ---
 
